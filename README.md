@@ -6,6 +6,7 @@ Nazywam się Anna Dziurawiec. Jestem magistrem prawa, ukończyłam studia na Kat
 * Jira - narzędzie do śledzenia błędów
 * TestRail - narzędzie do zarządzania testowaniem
 * Confluence - narzędzie do tworzenia dokumentacji 
+* Trello
 * Github
 * SQL - w trakcie nauki
 # Umiejętności techniczne 

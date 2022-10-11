@@ -7,6 +7,7 @@ Nazywam się Anna Dziurawiec. Jestem magistrem prawa, ukończyłam studia na Kat
 * TestRail - narzędzie do zarządzania testowaniem
 * Confluence - narzędzie do tworzenia dokumentacji 
 * Github
+* SQL - w trakcie nauki
 # Umiejętności techniczne 
 * Znajomość zagadnień związanych z wytwarzaniem i testowaniem oprogramowania 
 * Analiza i projektowanie przypadków testowych

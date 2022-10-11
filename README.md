@@ -33,3 +33,5 @@ Nazywam się Anna Dziurawiec. Jestem magistrem prawa, ukończyłam studia na Kat
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 * Praca w IT dla Stażystów i Juniorów (IT Jobs for Intern/Junior)
+# Moje projekty 
+* Testowanie strony https://www.hebe.pl/

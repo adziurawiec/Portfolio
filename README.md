@@ -35,6 +35,6 @@ Moje Testerskie portfolio
 * Praca w IT dla Stażystów i Juniorów (IT Jobs for Intern/Junior)
 # Moje projekty 
 * Testowanie strony https://www.hebe.pl/
-    * Logowanie i przypomnienie hasła w aplikacji - przypadki testowe 
-    |ID    |Tytuł    |Środowisko    |Warunki wstępne     |Kroki do wykonania     |Oczekiwany rezultat |Warunek końcocwy    |Uwagi   |
-    |------|---------|--------------|--------------------|-----------------------|--------------------|--------------------|--------|
+    * Logowanie i przypomnienie hasła w aplikacji - przypadki testowe https://docs.google.com/spreadsheets/d/1-wxceDDF_eKSPmE9irYG9pGD2Yt7P1_EgFWZvrNNeUM/edit?usp=sharing
+
+

@@ -26,7 +26,7 @@ Nazywam się Anna Dziurawiec. Jestem magistrem prawa, ukończyłam studia na Kat
 * R.Smilgin - Zawód tester
 * B.Forta - SQL w mgnieniu oka ( w trakcie) 
 * R.Pawlak - Testowanie oprogramowania. Podręcznik dla początkujących 
-* B.Błaszczyk - English 4 IT
+* B.Błaszczyk - English 4 IT (w trakcie) 
 # Grupy testerskie na Facebooku
 * Dare IT Community
 * Tester oprogramowania - wsparcie na starcie

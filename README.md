@@ -19,13 +19,14 @@ Moje Testerskie portfolio
 # Kursy 
 * Tester oprogramowania (105 h) - Software Development Academy
 * SQL w 120 minut - Tomasz Libera
+* Maraton GoIT (w trakcie)
 # Webinary 
 * Jak zacząć w branży IT jako tester oprogramowania - Czy IT jest dla mnie? 
 * Poznaj API HTTP oraz Postman - Czy IT jest dla mnie ? 
 * Czym jest dobre testowanie? - Test Master AmberTeam, Karola Lieberta i Jędrzeja Kwapińskiego
 # Książki techniczne 
 * R.Smilgin - Zawód tester
-* B.Forta - SQL w mgnieniu oka ( w trakcie) 
+* B.Forta - SQL w mgnieniu oka (w trakcie) 
 * R.Pawlak - Testowanie oprogramowania. Podręcznik dla początkujących 
 * B.Błaszczyk - English 4 IT (w trakcie) 
 # Grupy testerskie na Facebooku

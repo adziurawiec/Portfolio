@@ -19,7 +19,7 @@ Moje Testerskie portfolio
 # Kursy 
 * Tester oprogramowania (105 h) - Software Development Academy
 * SQL w 120 minut - Tomasz Libera
-* Maraton GoIT (w trakcie)
+* 7 dniowy Maraton GoIT - Projkt "Piwerwsza strona WWW" 
 # Webinary 
 * Jak zacząć w branży IT jako tester oprogramowania - Czy IT jest dla mnie? 
 * Poznaj API HTTP oraz Postman - Czy IT jest dla mnie ? 

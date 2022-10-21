@@ -9,6 +9,8 @@ Moje Testerskie portfolio
 * Trello
 * Github
 * SQL - w trakcie nauki
+* HTML - podstawy
+* CSS - podstawy
 # Umiejętności techniczne 
 * Znajomość zagadnień związanych z wytwarzaniem i testowaniem oprogramowania 
 * Analiza i projektowanie przypadków testowych

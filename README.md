@@ -38,6 +38,7 @@ Moje Testerskie portfolio
 * Praca w IT dla Stażystów i Juniorów (IT Jobs for Intern/Junior)
 # Moje projekty 
 * Testowanie strony https://www.hebe.pl/
+    * Rejestracja użytkownika nieposiadającego karty My hebe - przypadki testowe https://docs.google.com/spreadsheets/d/1N7mvTENRXW52I_-3o7igrJEs77zHN1Xo3dM-I-qX0MM/edit?usp=sharing
     * Logowanie i przypomnienie hasła w aplikacji - przypadki testowe https://docs.google.com/spreadsheets/d/1-wxceDDF_eKSPmE9irYG9pGD2Yt7P1_EgFWZvrNNeUM/edit?usp=sharing
 * "Pierwsza strona WWW"
    * https://cv-anna-dziurawiec.netlify.app/
